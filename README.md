@@ -1,2 +1,3 @@
 # reimaginingtesting
-learn, research studies relevant to testing
+learn, research, contribute to studies relevant to testing.
+
